@@ -1,0 +1,15 @@
+[package]
+name = "nepal-geo-core"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ranjeet Gupta <ranjeet2063@users.noreply.github.com>"]
+description = "Authoritative canonical administrative hierarchy and geospatial data engine for Nepal"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Ranjeet2063/nepal-geo-core"
+keywords = ["nepal", "geo", "administrative", "palika", "districts"]
+categories = ["data-structures", "internationalization", "geospatial"]
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]
