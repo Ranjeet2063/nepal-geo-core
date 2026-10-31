@@ -1,0 +1,26 @@
+{
+  "name": "@ranjeet2063/nepal-geo-core",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Canonical Nepal administrative hierarchy and geospatial data engine (7 Provinces, 77 Districts, 753 Local Levels)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node --test --experimental-strip-types test/index.test.ts"
+  },
+  "keywords": [
+    "nepal",
+    "geo",
+    "administrative",
+    "palika",
+    "districts",
+    "provinces",
+    "nepali"
+  ],
+  "author": "Ranjeet Gupta <ranjeet2063@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ranjeet2063/nepal-geo-core.git"
+  }
+}
